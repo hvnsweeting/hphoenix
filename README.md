@@ -1,6 +1,6 @@
 # Hphoenix
 
-[![Build Status](https://travis-ci.org/hvnsweeting/hphoenix.svg?branch=master)](https://travis-ci.org/hvnsweeting/hphoenix)
+[![CircleCI](https://circleci.com/gh/hvnsweeting/hphoenix.svg?style=svg)](https://circleci.com/gh/hvnsweeting/hphoenix)
 
 To start your Phoenix app:
 
