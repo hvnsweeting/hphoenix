@@ -1,5 +1,7 @@
 # Hphoenix
 
+[![Build Status](https://travis-ci.org/hvnsweeting/hphoenix.svg?branch=master)](https://travis-ci.org/hvnsweeting/hphoenix)
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
