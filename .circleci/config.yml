@@ -3,7 +3,7 @@ jobs:
   build:
     working_directory: ~/elixir-app
     docker:
-      - image: elixir:1.4.4
+      - image: trenpixster/elixir:1.4.4
       - image: postgres:9.4.1
         environment:
           POSTGRES_USER: postgres
